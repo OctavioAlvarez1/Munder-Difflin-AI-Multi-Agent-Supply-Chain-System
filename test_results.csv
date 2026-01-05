@@ -1,0 +1,41 @@
+request_id,request_date,cash_balance,inventory_value,response,cash_change
+1,2025-04-01,45123.2,4940.299999999999,"The paper supplies order has been successfully processed with the following transaction IDs:
+- A4 glossy paper: Transaction ID 20
+- Heavy cardstock (white): Transaction ID 21
+- Colored paper: Transaction ID 22
+Thank you for choosing Munder Difflin for your ceremony supplies. Your order will be delivered before April 15, 2025.",63.5
+2,2025-04-03,45235.2,4940.299999999999,"The order for 500 sheets of colorful poster paper and 300 rolls of streamers has been successfully processed and will be delivered by April 15, 2025. Unfortunately, due to stock unavailability, we are unable to fulfill the part of the order for 200 balloons by the requested date. We apologize for the inconvenience.",112.0
+3,2025-04-04,57435.2,4440.299999999999,"Transaction Recorded: Transaction 25 created successfully., Sale of 5,000 sheets of A3 paper for $500.00 on 2025-04-04 has been finalized successfully. Transaction ID is 26., Transaction successful: Transaction 27 created successfully.",12200.0
+4,2025-04-05,57435.2,4440.299999999999,"Unfortunately, we are unable to fulfill your request for 500 sheets of high-quality recycled cardstock and 250 sheets of A4 printer paper by April 15, 2025, as the earliest possible delivery date for these items is January 9, 2026.",0.0
+5,2025-04-05,57435.2,4440.299999999999,"Agent Error: Error in generating model output:
+Error code: 400 - {'error': {'code': None, 'message': 'Insufficient budget available', 'param': None, 'type': 'invalid_request_error'}}",0.0
+6,2025-04-06,57435.2,4440.299999999999,"Agent Error: Error in generating model output:
+Error code: 400 - {'error': {'code': None, 'message': 'Insufficient budget available', 'param': None, 'type': 'invalid_request_error'}}",0.0
+7,2025-04-07,57435.2,4440.299999999999,"Agent Error: Error in generating model output:
+Error code: 400 - {'error': {'code': None, 'message': 'Insufficient budget available', 'param': None, 'type': 'invalid_request_error'}}",0.0
+8,2025-04-07,57435.2,4440.299999999999,"Agent Error: Error in generating model output:
+Error code: 400 - {'error': {'code': None, 'message': 'Insufficient budget available', 'param': None, 'type': 'invalid_request_error'}}",0.0
+9,2025-04-07,57435.2,4440.299999999999,"Agent Error: Error in generating model output:
+Error code: 400 - {'error': {'code': None, 'message': 'Insufficient budget available', 'param': None, 'type': 'invalid_request_error'}}",0.0
+13,2025-04-08,57435.2,4440.299999999999,"Agent Error: Error in generating model output:
+Error code: 400 - {'error': {'code': None, 'message': 'Insufficient budget available', 'param': None, 'type': 'invalid_request_error'}}",0.0
+12,2025-04-08,57435.2,4440.299999999999,"Agent Error: Error in generating model output:
+Error code: 400 - {'error': {'code': None, 'message': 'Insufficient budget available', 'param': None, 'type': 'invalid_request_error'}}",0.0
+10,2025-04-08,57435.2,4440.299999999999,"Agent Error: Error in generating model output:
+Error code: 400 - {'error': {'code': None, 'message': 'Insufficient budget available', 'param': None, 'type': 'invalid_request_error'}}",0.0
+11,2025-04-08,57435.2,4440.299999999999,"Agent Error: Error in generating model output:
+Error code: 400 - {'error': {'code': None, 'message': 'Insufficient budget available', 'param': None, 'type': 'invalid_request_error'}}",0.0
+14,2025-04-09,57435.2,4440.299999999999,"Agent Error: Error in generating model output:
+Error code: 400 - {'error': {'code': None, 'message': 'Insufficient budget available', 'param': None, 'type': 'invalid_request_error'}}",0.0
+15,2025-04-12,57435.2,4440.299999999999,"Agent Error: Error in generating model output:
+Error code: 400 - {'error': {'code': None, 'message': 'Insufficient budget available', 'param': None, 'type': 'invalid_request_error'}}",0.0
+16,2025-04-13,57435.2,4440.299999999999,"Agent Error: Error in generating model output:
+Error code: 400 - {'error': {'code': None, 'message': 'Insufficient budget available', 'param': None, 'type': 'invalid_request_error'}}",0.0
+17,2025-04-14,57435.2,4440.299999999999,"Agent Error: Error in generating model output:
+Error code: 400 - {'error': {'code': None, 'message': 'Insufficient budget available', 'param': None, 'type': 'invalid_request_error'}}",0.0
+18,2025-04-14,57435.2,4440.299999999999,"Agent Error: Error in generating model output:
+Error code: 400 - {'error': {'code': None, 'message': 'Insufficient budget available', 'param': None, 'type': 'invalid_request_error'}}",0.0
+19,2025-04-15,57435.2,4440.299999999999,"Agent Error: Error in generating model output:
+Error code: 400 - {'error': {'code': None, 'message': 'Insufficient budget available', 'param': None, 'type': 'invalid_request_error'}}",0.0
+20,2025-04-17,57435.2,4440.299999999999,"Agent Error: Error in generating model output:
+Error code: 400 - {'error': {'code': None, 'message': 'Insufficient budget available', 'param': None, 'type': 'invalid_request_error'}}",0.0
